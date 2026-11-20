@@ -5,6 +5,8 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![CI](https://github.com/asad110abbas/customer-churn-prediction/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 Predict which subscribers are about to cancel, and **decide who to contact** for a retention campaign.
 The model is chosen by cross-validation, and the decision threshold is set by **campaign profit**, not the default 0.5.
 
